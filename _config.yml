@@ -1,8 +1,10 @@
 title: Pedro Marinho
 description: >
   Blog técnico sobre programação, backend, Linux e desenvolvimento fullstack.
-
-author: Pedro Marinho
+lang: pt-BR
+author:
+  name: Pedro Marinho
+  email: pedroermarinho@gmail.com
 
 remote_theme: jekyll/minima
 
@@ -12,7 +14,7 @@ plugins:
 
 
 minima:
-  skin: auto
+  skin: solarized-light
   show_excerpts: true
   date_format: "%d/%m/%Y"
   social_links:
@@ -22,6 +24,8 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/pedroermarinho"
-  hide_site_feed_link: false
+    - title: YouTube
+      icon: youtube
+      url: "https://youtube.com/@pedroermarinho"
 
 permalink: /:categories/:year/:month/:day/:title.html
