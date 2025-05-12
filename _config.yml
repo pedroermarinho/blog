@@ -11,14 +11,14 @@ theme: minima
 markdown: kramdown
 highlighter: rouge
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
-minima:
-  social_links:
-    github: pedroermarinho
-    linkedin: pedroermarinho
-  date_format: "%d/%m/%Y"
+# minima:
+#   social_links:
+#     github: pedroermarinho
+#     linkedin: pedroermarinho
+#   date_format: "%d/%m/%Y"
 
 #permalink: /:categories/:year/:month/:day/:title.html
