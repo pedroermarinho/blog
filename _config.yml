@@ -1,15 +1,30 @@
-title: "Pedro Marinho"
-name: "Pedro Marinho"
-description: Um blog técnico sobre programação, backend, linux e desenvolvimento fullstack.
+title: Pedro Marinho
+description: >
+  Blog técnico sobre programação, backend, Linux e desenvolvimento fullstack.
 
 author: Pedro Marinho
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@d4d779a
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 
 minima:
-  social_links:
-    github: pedroermarinho
-    linkedin: pedroermarinho
+  skin: auto
+  show_excerpts: true
   date_format: "%d/%m/%Y"
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/pedroermarinho"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/pedroermarinho"
+  hide_site_feed_link: false
 
 permalink: /:categories/:year/:month/:day/:title.html
+
+sass:
+  quiet_deps: true
