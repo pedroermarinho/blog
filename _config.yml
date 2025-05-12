@@ -4,7 +4,7 @@ description: >
 
 author: Pedro Marinho
 
-remote_theme: jekyll/minima@d4d779a
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
@@ -25,6 +25,3 @@ minima:
   hide_site_feed_link: false
 
 permalink: /:categories/:year/:month/:day/:title.html
-
-sass:
-  quiet_deps: true
