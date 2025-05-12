@@ -1,9 +1,25 @@
-title: Pedro Marinho
+title: Pedro Marinho - Blog
+description: >- 
+  Um blog técnico sobre programação, backend, linux e desenvolvimento fullstack.
+baseurl: "" 
+url: "https://pedroermarinho.github.io/"
 
 author:
   name: Pedro Marinho
   email: pedroermarinho@gmail.com
 
-description: Um blog pessoal feito com Jekyll e o tema Minima.
+theme: minima 
+markdown: kramdown
+highlighter: rouge
 
-theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  social_links:
+    github: pedroermarinho
+    linkedin: pedroermarinho
+  date_format: "%d/%m/%Y"
+
+permalink: /:categories/:year/:month/:day/:title.html
