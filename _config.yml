@@ -15,7 +15,6 @@ plugins:
 
 minima:
   skin: solarized-light
-  show_excerpts: true
   date_format: "%d/%m/%Y"
   social_links:
     - title: GitHub
