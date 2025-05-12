@@ -4,7 +4,7 @@ description: Um blog técnico sobre programação, backend, linux e desenvolvime
 
 author: Pedro Marinho
 
-theme: minima 
+remote_theme: jekyll/minima
 
 minima:
   social_links:
