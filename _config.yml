@@ -8,8 +8,8 @@ author:
   email: pedroermarinho@gmail.com
 
 theme: minima 
-markdown: kramdown
-highlighter: rouge
+# markdown: kramdown
+# highlighter: rouge
 
 # plugins:
 #   - jekyll-feed
