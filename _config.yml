@@ -1,9 +1,8 @@
-title: Pedro Marinho - Blog
+title: "Pedro Marinho"
+name: "Pedro Marinho"
 description: Um blog técnico sobre programação, backend, linux e desenvolvimento fullstack.
 
-author:
-  name: Pedro Marinho
-  email: pedroermarinho@gmail.com
+author: Pedro Marinho
 
 theme: minima 
 
