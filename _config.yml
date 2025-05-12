@@ -21,4 +21,4 @@ theme: minima
 #     linkedin: pedroermarinho
 #   date_format: "%d/%m/%Y"
 
-#permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:categories/:year/:month/:day/:title.html
