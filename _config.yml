@@ -1,7 +1,7 @@
 title: Pedro Marinho - Blog
 description: Um blog técnico sobre programação, backend, linux e desenvolvimento fullstack.
-# baseurl: "" 
-# url: "https://pedroermarinho.github.io/"
+baseurl: "" 
+url: "https://pedroermarinho.github.io/"
 
 author:
   name: Pedro Marinho
@@ -21,4 +21,4 @@ theme: minima
 #     linkedin: pedroermarinho
 #   date_format: "%d/%m/%Y"
 
-# permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:categories/:year/:month/:day/:title.html
