@@ -1,0 +1,6 @@
+title: Meu Blog
+author:
+  name: Pedro Marinho
+  email: pedroermarinho@gmail.com
+description: Um blog pessoal feito com Jekyll e o tema Minima.
+theme: minima
